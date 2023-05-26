@@ -29,4 +29,4 @@ a = str(input())
 print("Write pattern:")
 b = str(input())
 
-RabinKarp(a, b) 
+RabinKarp(a, b)
